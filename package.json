@@ -1,0 +1,21 @@
+{
+  "name": "xstate-workshop",
+  "version": "1.0.0",
+  "description": "A playground where we can try out XState",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.14.3",
+    "@babel/plugin-transform-runtime": "^7.14.3",
+    "@babel/preset-env": "^7.14.2",
+    "@xstate/inspect": "^0.4.1",
+    "jest": "^26.6.3",
+    "miragejs": "^0.1.41",
+    "xstate": "^4.23.1"
+  }
+}
